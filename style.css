@@ -1,0 +1,26 @@
+.remov-item{
+    text-decoration: line-through;
+}
+ul li {
+    list-style: none;
+    position: relative;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.todo{
+    background-color: rgba(255, 0, 170, 0.459);
+    padding: 20px;
+}
+.todo .text{
+    padding: 5px;
+}
+body{
+    background-color: rgba(49, 47, 47, 0.404);
+}
